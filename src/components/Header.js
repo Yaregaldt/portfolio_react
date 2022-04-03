@@ -10,7 +10,7 @@ function Header() {
                 <li><a href="#about-me">About me</a></li>
                 <li><a href="#projects">Projects</a></li>
                 <li><a href="#contact-me">Contact</a></li>
-                <li><a href="src/Yaregal Resume.docx" download>Resume</a></li>
+                <li><a href="src/Yaregal's Resume.docx" download>Resume</a></li>
             </ul>
             <button class="hamburger" id="hamburger" alt="hamburger menu for small screens">
                 <i class="fas fa-bars"></i>
